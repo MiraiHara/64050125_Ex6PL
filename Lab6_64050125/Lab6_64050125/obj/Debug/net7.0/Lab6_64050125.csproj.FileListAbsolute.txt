@@ -1,0 +1,14 @@
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\bin\Debug\net7.0\Lab6_64050125.exe
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\bin\Debug\net7.0\Lab6_64050125.deps.json
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\bin\Debug\net7.0\Lab6_64050125.runtimeconfig.json
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\bin\Debug\net7.0\Lab6_64050125.dll
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\bin\Debug\net7.0\Lab6_64050125.pdb
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\obj\Debug\net7.0\Lab6_64050125.GeneratedMSBuildEditorConfig.editorconfig
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\obj\Debug\net7.0\Lab6_64050125.AssemblyInfoInputs.cache
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\obj\Debug\net7.0\Lab6_64050125.AssemblyInfo.cs
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\obj\Debug\net7.0\Lab6_64050125.csproj.CoreCompileInputs.cache
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\obj\Debug\net7.0\Lab6_64050125.dll
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\obj\Debug\net7.0\refint\Lab6_64050125.dll
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\obj\Debug\net7.0\Lab6_64050125.pdb
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\obj\Debug\net7.0\Lab6_64050125.genruntimeconfig.cache
+E:\ปี 3\prolang\6\Lab6_64050125\Lab6_64050125\obj\Debug\net7.0\ref\Lab6_64050125.dll
