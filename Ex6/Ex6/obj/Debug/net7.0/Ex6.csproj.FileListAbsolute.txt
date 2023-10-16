@@ -1,0 +1,14 @@
+E:\ปี 3\prolang\6\Ex6\Ex6\bin\Debug\net7.0\Ex6.exe
+E:\ปี 3\prolang\6\Ex6\Ex6\bin\Debug\net7.0\Ex6.deps.json
+E:\ปี 3\prolang\6\Ex6\Ex6\bin\Debug\net7.0\Ex6.runtimeconfig.json
+E:\ปี 3\prolang\6\Ex6\Ex6\bin\Debug\net7.0\Ex6.dll
+E:\ปี 3\prolang\6\Ex6\Ex6\bin\Debug\net7.0\Ex6.pdb
+E:\ปี 3\prolang\6\Ex6\Ex6\obj\Debug\net7.0\Ex6.GeneratedMSBuildEditorConfig.editorconfig
+E:\ปี 3\prolang\6\Ex6\Ex6\obj\Debug\net7.0\Ex6.AssemblyInfoInputs.cache
+E:\ปี 3\prolang\6\Ex6\Ex6\obj\Debug\net7.0\Ex6.AssemblyInfo.cs
+E:\ปี 3\prolang\6\Ex6\Ex6\obj\Debug\net7.0\Ex6.csproj.CoreCompileInputs.cache
+E:\ปี 3\prolang\6\Ex6\Ex6\obj\Debug\net7.0\Ex6.dll
+E:\ปี 3\prolang\6\Ex6\Ex6\obj\Debug\net7.0\refint\Ex6.dll
+E:\ปี 3\prolang\6\Ex6\Ex6\obj\Debug\net7.0\Ex6.pdb
+E:\ปี 3\prolang\6\Ex6\Ex6\obj\Debug\net7.0\Ex6.genruntimeconfig.cache
+E:\ปี 3\prolang\6\Ex6\Ex6\obj\Debug\net7.0\ref\Ex6.dll
